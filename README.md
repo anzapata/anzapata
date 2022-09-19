@@ -9,6 +9,7 @@
 <br>
 <h2 align="center"> Connect with me: </h2>
 <p align="center">
+	<a href="mailto:anzapatas.ml@gmail.com"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65"></a>
 	<a href="https://www.linkedin.com/in/anzapatas/"><img src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" alt="LinkedIn" width="65"></a>
 	<a href="https://www.instagram.com/a.zapata19/"><img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="Instagram" width="65"></a>
 </p>
